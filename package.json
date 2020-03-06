@@ -1,0 +1,25 @@
+{
+  "name": "@thefrontend/eslint-config-react",
+  "version": "1.0.0",
+  "description": "eslint config for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Alex Shepherd",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frontendfoo/thefrontend-eslint-config-react.git"
+  },
+  "bugs": {
+    "url": "https://github.com/frontendfoo/thefrontend-eslint-config-react/issues"
+  },
+  "homepage": "https://github.com/frontendfoo/thefrontend-eslint-config-react#readme"
+}
